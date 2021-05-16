@@ -1,6 +1,7 @@
 
 # Machine Vision & Image Processing
 A series of digital image processing tools created in MATLAB from scratch. [`image_processing_report`](https://github.com/arijitnoobstar/MachineVision_ImageProcessing/blob/main/image_processing_report.pdf) contains the full details of the image processing steps and intermediate results. An example of the full image workflow is as shown:
+
 <img src="https://github.com/arijitnoobstar/MachineVision_ImageProcessing/blob/main/image_workflow.png" width="700" />
 
 Note that these are the example images used for this project, the text from image 1 is converted to a monochrome image
